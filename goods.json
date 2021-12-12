@@ -1,0 +1,107 @@
+﻿{
+    "1": {
+        "name": "Muffins with chocolate",
+        "cost": "10",
+        "description": "Muffins with chocolate",
+        "order": 1,
+        "img" : "img/1.jpg"
+    },
+    "2": {
+        "name": "Orange cinnamon muffin",
+        "cost": "42",
+        "description": "Orange cinnamon muffin",
+        "order": 2,
+        "img": "img/2.jpg"
+    },
+    "3": {
+        "name": "Muffin with cranberries and sugar icing",
+        "cost": "46",
+        "description": "Muffin with cranberries and sugar icing" ,
+        "order": 3,
+        "img": "img/3.jpg"
+    },
+    "4": {
+        "name": "Tangerine cake",
+        "cost": "52",
+        "description": "Tangerine cake" ,
+        "order": 4,
+        "img": "img/4.jpg"
+    },
+    "5": {
+        "name": "Cake with a layer of blueberries",
+        "cost": "48",
+        "description": "Cake with a layer of blueberries" ,
+        "order": 5,
+        "img": "img/5.jpg"
+    },
+    "6": {
+        "name": "Christmas tree set",
+        "cost": "28",
+        "description": "Christmas tree set" ,
+        "order": 6,
+        "img": "img/6.jpg"
+    },
+    "7": {
+        "name": "Gingerbread house",
+        "cost": "32",
+        "description": "Gingerbread house" ,
+        "order": 7,
+        "img": "img/7.jpg"
+    },
+    "8": {
+        "name": "Traditional Christmas cake",
+        "cost": "40",
+        "description": "Traditional Christmas cake" ,
+        "order": 8,
+        "img": "img/8.jpg"
+    },
+    "9": {
+        "name": "Tiramisu",
+        "cost": "62",
+        "description": "Tiramisu" ,
+        "order": 9,
+        "img": "img/9.jpg"
+    },
+    "10": {
+        "name": "Pie with candied fruits and raisimonsa",
+        "cost": "35",
+        "description": "Pie with candied fruits and raisimons" ,
+        "order": 10,
+        "img": "img/10.jpg"
+    },
+    "11": {
+        "name": "Christmas gingerbread set",
+        "cost": "26",
+        "description": "Christmas gingerbread set" ,
+        "order": 11,
+        "img": "img/11.jpg"
+    },
+    "12": {
+        "name": "Cinnabon",
+        "cost": "8",
+        "description": "Cinnabon" ,
+        "order": 12,
+        "img": "img/12.jpg"
+    },
+    "13": {
+        "name": "Traditional grey bread",
+        "cost": "10",
+        "description": "Traditional grey bread" ,
+        "order": 13,
+        "img": "img/13.jpg"
+    },
+    "14": {
+        "name": "Fruitcake",
+        "cost": "43",
+        "description": "Fruitcake" ,
+        "order": 14,
+        "img": "img/14.jpg"
+    },
+    "15": {
+        "name": "Gingerbread house with candied fruits",
+        "cost": "52",
+        "description": "Gingerbread house with candied fruits" ,
+        "order": 15,
+        "img": "img/15.jpg"
+    }
+}

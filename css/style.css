@@ -1,0 +1,132 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    height: 100vh;
+    background: url(../img/1625223299_11-kartinkin-com-p-vipechka-fon-krasivie-foni-18.jpg) center center/cover fixed no-repeat;
+    
+}
+.container {
+    max-width: 1170px;
+    padding: 0 15px;
+    width: 100% !important;
+    margin: 0 auto !important;
+}
+.d-flex {
+    display: flex;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+.justify-content-between {
+    justify-content: space-between;
+}
+.align-items-center {
+    align-items: center;
+}
+nav {
+    display: block;
+    padding-bottom: 50px;
+}
+.wrap {
+    flex-wrap: wrap;
+}
+.header-nav {
+    font-size: 35px;
+    font-weight: 700;
+    font-family: 'Satisfy', cursive;
+    font-style: italic;
+    text-shadow: 4px 5px 5px white, 0 0 2em white, 0 0 0.9em white;
+    
+}
+.header-nav a {
+    text-transform: capitalize;
+    
+}
+a:hover {
+    color: #734222 ;
+}
+a {
+    color: #593315;
+    text-decoration: none;
+}
+.header-nav a+a {
+    margin-left: 30px;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+    font-style: italic;
+    text-shadow: 4px 5px 5px white, 0 0 2em white, 0 0 0.9em white;
+    color: #593315;
+    margin: 0;
+}
+.menu_bakes {
+    padding-top: 30px;
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.7);
+    flex-wrap: wrap;
+    justify-content: space-around;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+    margin-bottom: 50px;
+    
+
+}
+.item {
+    align-items: center;
+    width: 300px;
+    height: 400px;
+    font-size: 30px;
+    font-family: 'Satisfy', cursive;
+    
+}
+.main {
+    margin-bottom: 50px;
+}
+
+.basket {
+    position: absolute;
+    right: 150px;
+    top: 20px;
+}
+#header {
+    position: relative;
+}
+p {
+    text-align: center;
+    height: 90px;
+}
+.basket img:hover {
+    width: 155px;
+    height:155px;
+}
+.lights {
+    position: absolute;
+   left: -30px;
+   top: -30px;
+   width: 100px;
+   height: 100px;
+}
+.add {
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    font-size: 20px;
+    background-color:white;
+    border-radius: 50%;
+    font-family: 'Satisfy', cursive;
+    color: #593315;
+    text-align: center;
+    margin-left: 50px;
+    
+}
+.add:hover {
+    background-color: #593315;
+    color: white;
+}
